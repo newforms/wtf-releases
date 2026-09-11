@@ -6,6 +6,15 @@
     <description>Updates for WTF — Whiskey Tango Foxtrot</description>
     <language>en</language>
     <item>
+      <title>WTF 0.4.1</title>
+      <pubDate>Fri, 11 Sep 2026 15:39:36 -0700</pubDate>
+      <sparkle:version>6</sparkle:version>
+      <sparkle:shortVersionString>0.4.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Settings now reliably opens in front (WTF shows in the Dock while Settings is open). New menu bar icon option: List.</p>]]></description>
+      <enclosure url="https://github.com/newforms/wtf-releases/releases/download/v0.4.1/WTF-0.4.1.zip" type="application/octet-stream" sparkle:edSignature="nuBvQpLwnTot//awiuo6krCXXGZAXyvHzxOCEPz6rKSTFcYE8pKIsVkpUb33QKFcn8WDkaJErsiiAc3/CTypAQ==" length="1263384"/>
+    </item>
+    <item>
       <title>WTF 0.4.0</title>
       <pubDate>Fri, 11 Sep 2026 15:27:38 -0700</pubDate>
       <sparkle:version>5</sparkle:version>
