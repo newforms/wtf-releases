@@ -5,5 +5,14 @@
     <link>https://github.com/newforms/wtf-releases</link>
     <description>Updates for WTF — Whiskey Tango Foxtrot</description>
     <language>en</language>
+    <item>
+      <title>WTF 0.3.0</title>
+      <pubDate>Fri, 11 Sep 2026 15:12:14 -0700</pubDate>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>First build with automatic updates. Also: word style setting, recents menu in the input field, Escape to dismiss.</p>]]></description>
+      <enclosure url="https://github.com/newforms/wtf-releases/releases/download/v0.3.0/WTF-0.3.0.zip" type="application/octet-stream" sparkle:edSignature="g2E3rSF/C8mieDtEl0mdxhqhO8kMcQ2eXlG3yRPK75dRQ1p8/3KDwOWhQRlylWHixSbz2+lvLVR3a0QokDk5Dg==" length="1257366"/>
+    </item>
   </channel>
 </rss>
