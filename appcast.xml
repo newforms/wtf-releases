@@ -6,6 +6,15 @@
     <description>Updates for WTF — Whiskey Tango Foxtrot</description>
     <language>en</language>
     <item>
+      <title>WTF 0.6.0</title>
+      <pubDate>Fri, 11 Sep 2026 18:58:45 -0700</pubDate>
+      <sparkle:version>8</sparkle:version>
+      <sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p><b>Refined app icon</b> — a more convincing keycap, with the legend sized like a real Magic Keyboard key.<br><br><b>Lighter popover buttons</b> — the settings and quit buttons are now bare, with a subtle circle that appears on hover. Slightly larger icons, more room between them.<br><br><b>Under the hood</b> — the app now runs on the same shared model as the upcoming iPhone version. Your recents and settings carry over unchanged.</p>]]></description>
+      <enclosure url="https://github.com/newforms/wtf-releases/releases/download/v0.6.0/WTF-0.6.0.zip" type="application/octet-stream" sparkle:edSignature="lC+n1nmtJ3vukhZbsws6b135CpHPJpCM0x2ClTxQmbfwsXZRn6DQOJWu6g6fxKabuxmy3tqN5IvoLKKpNvrLBQ==" length="3007377"/>
+    </item>
+    <item>
       <title>WTF 0.5.0</title>
       <pubDate>Fri, 11 Sep 2026 16:59:10 -0700</pubDate>
       <sparkle:version>7</sparkle:version>
