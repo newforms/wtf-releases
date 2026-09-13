@@ -6,6 +6,15 @@
     <description>Updates for WTF — Whiskey Tango Foxtrot</description>
     <language>en</language>
     <item>
+      <title>WTF 0.8.0</title>
+      <pubDate>Sat, 12 Sep 2026 22:56:41 -0700</pubDate>
+      <sparkle:version>10</sparkle:version>
+      <sparkle:shortVersionString>0.8.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p><b>Your recents and settings now sync through iCloud.</b> Spell something on the iPhone, and it&#x27;s in the Mac&#x27;s recents moments later — and they survive deleting and reinstalling. Nothing to sign in to; it uses the iCloud account you&#x27;re already on. Turn it off in Settings if you&#x27;d rather not.</p><p><b>Type weight</b> on the Mac now matches the iPhone.</p>]]></description>
+      <enclosure url="https://github.com/newforms/wtf-releases/releases/download/v0.8.0/WTF-0.8.0.zip" type="application/octet-stream" sparkle:edSignature="OovNtHHlhHQbFXgeppE1DedkXU4g6Gqi4iiRXrueDMN5uZDRL6G4M++KpxyfB7TAFPR40wdd4XBY5Y/2lEWQCQ==" length="3096135"/>
+    </item>
+    <item>
       <title>WTF 0.7.0</title>
       <pubDate>Sat, 12 Sep 2026 17:36:41 -0700</pubDate>
       <sparkle:version>9</sparkle:version>
