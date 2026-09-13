@@ -6,6 +6,15 @@
     <description>Updates for WTF — Whiskey Tango Foxtrot</description>
     <language>en</language>
     <item>
+      <title>WTF 0.11.1</title>
+      <pubDate>Sun, 13 Sep 2026 16:46:33 -0700</pubDate>
+      <sparkle:version>15</sparkle:version>
+      <sparkle:shortVersionString>0.11.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h2>Polish</h2><ul><li><b>Everything in SF Rounded</b> — titles, settings, lists, not just the words.</li><li><b>Siri answers to more phrasings</b>, including &quot;Spell with Whiskey Tango Foxtrot&quot;.</li><li><b>Unfinished dictionaries</b> show a count pill; pick its color under Settings › Draft color.</li><li>Symbol keycaps (space, @) are easier to read; the New… menu is tidier.</li></ul>]]></description>
+      <enclosure url="https://github.com/newforms/wtf-releases/releases/download/v0.11.1/WTF-0.11.1.zip" type="application/octet-stream" sparkle:edSignature="RowgJXcG8MeK/9LERrPuMqZ8s5iMQWdaJcXtj2+FXRDMQ1Eb38MZPUtLwO6iHEnQdXdwNP8KClEsYYn4lEvZCg==" length="3322622"/>
+    </item>
+    <item>
       <title>WTF 0.11.0</title>
       <pubDate>Sun, 13 Sep 2026 14:09:03 -0700</pubDate>
       <sparkle:version>14</sparkle:version>
