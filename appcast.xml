@@ -6,6 +6,15 @@
     <description>Updates for WTF — Whiskey Tango Foxtrot</description>
     <language>en</language>
     <item>
+      <title>WTF 0.10.0</title>
+      <pubDate>Sun, 13 Sep 2026 11:23:45 -0700</pubDate>
+      <sparkle:version>13</sparkle:version>
+      <sparkle:shortVersionString>0.10.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h2>Your own dictionaries</h2><ul><li><b>Make a dictionary</b> — Settings › Dictionaries › New…, from scratch or as a copy of any built-in. Type a word per letter; it saves as you go.</li><li><b>Lives in iCloud Drive</b> — each dictionary is a small JSON file in <i>iCloud Drive › WTF › Dictionaries</i>. Edit it in any text editor, and it shows up on your iPhone too.</li><li><b>Missing letters</b> show a faded <i>Empty</i> until you fill them in; the picker shows how many are done.</li><li><b>Dictionary choice is now per device</b> — the Mac can stay on NATO while the phone shows off the silly one.</li></ul>]]></description>
+      <enclosure url="https://github.com/newforms/wtf-releases/releases/download/v0.10.0/WTF-0.10.0.zip" type="application/octet-stream" sparkle:edSignature="+NlDP+t5EAJlBpbwqWMtl/t+nXG6y6a3C+j/pPVGiDlG+Q/hTxiFCmK+rjuzNBymquX5QatQ0+omQk1ICHNqDA==" length="3268040"/>
+    </item>
+    <item>
       <title>WTF 0.9.1</title>
       <pubDate>Sun, 13 Sep 2026 02:01:27 -0700</pubDate>
       <sparkle:version>12</sparkle:version>
