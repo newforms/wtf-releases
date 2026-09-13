@@ -6,6 +6,15 @@
     <description>Updates for WTF — Whiskey Tango Foxtrot</description>
     <language>en</language>
     <item>
+      <title>WTF 0.11.0</title>
+      <pubDate>Sun, 13 Sep 2026 14:09:03 -0700</pubDate>
+      <sparkle:version>14</sparkle:version>
+      <sparkle:shortVersionString>0.11.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h2>Ask Siri</h2><ul><li><b>&quot;Hey Siri, spell with WTF&quot;</b> — Siri asks what, then <i>says</i> the spelling (&quot;T as in Tango, I as in India…&quot;) and shows the rows, with an Open in WTF button. Also from Spotlight and Shortcuts.</li><li><b><code>wtf://spell?text=…</code></b> opens WTF with the text in the field.</li><li>Settings › Dictionaries now says &quot;Custom Dictionaries — Show in Finder&quot;.</li></ul>]]></description>
+      <enclosure url="https://github.com/newforms/wtf-releases/releases/download/v0.11.0/WTF-0.11.0.zip" type="application/octet-stream" sparkle:edSignature="ySG7RvkjqT+LwmMQFbMxvhYQXYDkzs5NfCQYU9Hk0T3sq8r7GCHlnJjRYqk0NK6nnjCEM8Gd0Fk+2ZtRWXUQDw==" length="3307443"/>
+    </item>
+    <item>
       <title>WTF 0.10.0</title>
       <pubDate>Sun, 13 Sep 2026 11:23:45 -0700</pubDate>
       <sparkle:version>13</sparkle:version>
