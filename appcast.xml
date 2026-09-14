@@ -6,6 +6,15 @@
     <description>Updates for WTF — Whiskey Tango Foxtrot</description>
     <language>en</language>
     <item>
+      <title>WTF 0.11.5</title>
+      <pubDate>Sun, 13 Sep 2026 19:25:56 -0700</pubDate>
+      <sparkle:version>19</sparkle:version>
+      <sparkle:shortVersionString>0.11.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h2>Settings, dressed</h2><ul><li>A glyph on every row, and &quot;Text case&quot; says what it does.</li><li>The draft-color menu shows swatches.</li></ul>]]></description>
+      <enclosure url="https://github.com/newforms/wtf-releases/releases/download/v0.11.5/WTF-0.11.5.zip" type="application/octet-stream" sparkle:edSignature="c8lA6g/SxFuRzoaNLvJSE2mlBAy8t8LWWqRsCbJ+z7GN6sedFW58mO+531S4i/Pd0VDQo8rcweTL4JN8LGwODA==" length="3342730"/>
+    </item>
+    <item>
       <title>WTF 0.11.4</title>
       <pubDate>Sun, 13 Sep 2026 18:40:40 -0700</pubDate>
       <sparkle:version>18</sparkle:version>
